@@ -1,8 +1,6 @@
 # Issue tracker: GitHub
 
-Issues and PRDs for this repo live as GitHub issues. Use the `gh` CLI for all operations.
-
-> **Note:** this repo does not yet have a GitHub remote configured. Add one with `git remote add origin git@github.com:<owner>/<repo>.git` before these commands will work. Until then, skills that try to publish issues will fail; route work through local notes in `.scratch/` in the meantime.
+Issues and PRDs for this repo live as GitHub issues at [`tumultousRamen/revelio`](https://github.com/tumultousRamen/revelio). Use the `gh` CLI for all operations.
 
 ## Conventions
 
