@@ -1,0 +1,17 @@
+node_modules/
+.DS_Store
+.env
+.env.local
+.env.*.local
+dist/
+build/
+out/
+.next/
+*.log
+
+# Bun
+.bun/
+
+# Editor
+.vscode/
+.idea/
